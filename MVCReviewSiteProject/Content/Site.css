@@ -22,3 +22,57 @@ select,
 textarea {
     max-width: 280px;
 }
+
+
+/*Photo used in thumbnails*/
+#techPhoto{
+    width: 200px;
+}
+/*Photo used in background of website*/
+body {
+    background-image: url('Images/background wall.jpeg');
+}
+/*Font color used for header under "h2"*/
+h2{
+    color: white;
+}
+/*Font color used in footer*/
+footer{
+    color: white;
+}
+/*Font color used for header under "h4"*/
+h4{
+    color: white;
+}
+/*Font color used for text along side the text boxes in the create page*/
+div.form-group{
+    color: white;
+}
+/*Background color used for navbar*/
+#navy{
+    background-color: aquamarine;
+}
+/*Background image for thumbnail*/
+div.thumbnail {
+    background-image: url('Images/wooden wall.jpeg');
+}
+/*Centers title of thumbnails*/
+h3{
+    text-align: center;
+}
+/*Font color for title in thumbnail*/
+#thumbnailTitle{
+    color: white;
+}
+/*Font color for the "review" content in body of thumbnail*/
+#thumbnailContent{
+    color:white;
+}
+/*Aligns action links in thumbnail*/
+#actionLink{
+    text-align: center;
+}
+/*Font color for content in Details Page*/
+#details{
+    color: white;
+}

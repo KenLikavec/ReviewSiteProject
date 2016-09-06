@@ -36,6 +36,7 @@ namespace MVCReviewSiteProject.Models
         //    set { this.publishDate = value; }
         //}
 
+        //Publish date and time stamp//
         private DateTime? publishDate;
         public DateTime PublishDate
         {
